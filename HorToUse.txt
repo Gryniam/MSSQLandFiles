@@ -1,0 +1,9 @@
+1. Make sure you have drive D on your computer
+2. When starting the program, join the database (.mdf file available in the project)
+3. Then you will understand yourself 
+
+
+
+
+
+though the interface is in different languages :)
