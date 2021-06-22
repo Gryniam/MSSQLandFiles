@@ -1,0 +1,24 @@
+﻿Шлях:
+D:\images
+
+
+
+Кольори:
+Червоний
+Синій
+Коричневий
+Помаранчевий
+Сірий
+Чорний
+Білий
+Зелений
+Голубий
+Жовтий
+Золотий
+Срібний
+
+
+
+
+CONNECT
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\Buro.mdf";Integrated Security=True

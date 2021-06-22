@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\bin\Debug\Buro.exe.config
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\bin\Debug\Buro.exe
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\bin\Debug\Buro.pdb
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.Form1.resources
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.Properties.Resources.resources
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.exe
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\obj\Debug\Buro.pdb
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\bin\Debug\Buro.mdf
+C:\Users\Admin\Desktop\2 курс 2 семестр лабки\Практика\C#_Practice\Buro\Buro\bin\Debug\Buro_log.ldf
